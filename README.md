@@ -1,28 +1,26 @@
 # PopKorn: Movie Ticket Booking Platform
 
-PopKorn is a fast, easy, and hassle-free movie ticket booking platform. This project is currently a **functional mock website** designed to demonstrate the user flow for browsing movies and selecting seats.
+PopKorn is a full-stack movie ticketing platform designed to provide a seamless user experience for browsing movies and managing seat reservations. **Please note: This project is a functional mock website** intended for educational and demonstration purposes. It currently utilizes hardcoded data to simulate real-world booking processes.
 
-## Project Overview
-*   **Purpose**: This application serves as a prototype for a cinema booking system.
-*   **Data Handling**: Currently, the platform utilizes **hardcoded data** for movies, seat layouts, and showtimes for testing and development purposes.
-*   **Development Status**: The application is under active development, with ongoing efforts to synchronize file structures and align the frontend components with final requirements.
+## 📖 Project Overview
+This application serves as a prototype to showcase full-stack integration. The primary focus was to implement a clean user interface and a logical booking flow. 
+* **Mock Data:** All movie listings, showtimes, and seat availability are hardcoded for demonstration purposes.
+* **Functionality:** The system simulates the end-to-end process of selecting a movie, choosing a time, and booking seats.
 
-## Features
-*   **Movie Browsing**: A responsive, card-based interface displays available movie titles and details.
-*   **Seat Selection**: Includes an interactive seat map layout for testing booking logic.
-*   **Navigation**: Built with React Router to ensure a smooth transition between the home screen, movie details, and booking pages.
+## 🚀 Key Features
+* **Interactive UI:** User-friendly movie cards and a seat selection interface.
+* **Booking Logic:** A simulated process that tracks user selections through the reservation lifecycle.
+* **Responsive Design:** Built to ensure consistent performance across different screen sizes.
 
-## Tech Stack
-*   **Frontend**: React, JavaScript.
-*   **Backend/Architecture**: Node.js and Express (as part of the MERN stack framework).
+## 🛠 Tech Stack
+* **Frontend:** React, JavaScript.
+* **Backend:** Node.js, Express (integrated for routing and request handling).
+* **Environment:** Developed as a MERN-stack mock application.
 
-## Getting Started
+## 📦 Getting Started
+To view this project locally, follow these steps:
 
-### Prerequisites
-*   Node.js (v14 or higher).
-
-### Installation
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/popkorn.git](https://github.com/yourusername/popkorn.git)
-   cd popkorn
+   git clone [https://github.com/ifaiqahsan/PopKorn-Task4-FullStackIntegration.git](https://github.com/ifaiqahsan/PopKorn-Task4-FullStackIntegration.git)
+   cd PopKorn-Task4-FullStackIntegration
